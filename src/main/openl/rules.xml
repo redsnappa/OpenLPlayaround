@@ -1,0 +1,12 @@
+<project>
+  <name>TemplateRules</name>
+  <modules>
+    <module>
+      <name>TemplateRules</name>
+      <rules-root path="rules/TemplateRules.xls"/>
+    </module>
+  </modules>
+  <classpath>
+    <entry path="."/>
+  </classpath>
+</project>
